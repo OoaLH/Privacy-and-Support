@@ -18,7 +18,7 @@ Otherwise an error occurs.
 
 You lose the game if you fill in the wrong number three times.
 
-There may be more than one solution for each game.
+There will be only one solution for each game.
 
 Enjoy!🤪
 ## Contact
