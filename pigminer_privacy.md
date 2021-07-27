@@ -1,6 +1,6 @@
 # Privacy Policy
 ## Overview
-This Privacy Policy describes how your personal information is handled in Gold Miner - Online Dual Play.
+This Privacy Policy describes how your personal information is handled in Pig the Miner - Online Co-op.
 ## No Personal Information is Collected in the App
 I do not collect, use, save, or have access to any of your personal data recorded in Gold Miner - Online Dual Play.
 
