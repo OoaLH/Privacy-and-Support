@@ -4,6 +4,6 @@
 
 2. Or just play locally with your friend.
 
-3. Press lower button to draw the claw and press upper button to use dynamite.
+3. Press left/right button to move and press upper button jump.
 ## Contact
 If you have any questions please contact me at zhangyifansugar@gmail.com
