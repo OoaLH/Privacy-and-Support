@@ -1,8 +1,8 @@
 # Privacy Policy
 ## Overview
-This Privacy Policy describes how your personal information is handled in Pig the Miner - Online Co-op.
+This Privacy Policy describes how your personal information is handled in Volley Gold.
 ## No Personal Information is Collected in the App
-I do not collect, use, save, or have access to any of your personal data recorded in Gold Miner - Online Dual Play.
+I do not collect, use, save, or have access to any of your personal data recorded in Volley Gold.
 
 The app does not collect personal information from anyone, including children under the age of 13.
 ## Contact Us
